@@ -1,6 +1,6 @@
 {
     "name": "awema-pl/module-chart-builder",
-    "description": ":description",
+    "description": "Module for build charts.",
     "type": "library",
     "license": "MIT",
     "authors": [
